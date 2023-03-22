@@ -29,6 +29,13 @@
      *paper_plot_horizontal: Figure 11
      
      *paper_plot_salt_tidally-resolved: Tidally resolved stratification, not shown in paper
+     
+     
+The model data used for the figures and loaded within the Python scripts is available through <link> or, alternatively, from the corresponding author of the study [1].
+
+Note that *paper_plot_forcing_validation.py, *paper_plot_tidal_analysis.py, and *paper_plot_salinity_correlation.py require observational data that is freely available via portal-tideelbe.de; for in-depth documentation see [1].
+*paper_plot_forcing_validation.py additionally requires meteorological forcing data for the first figure panel, which cannot be made public due to its proprietary nature.
+The use of shapefiles to colour landmasses and plot the coastline in Figures 2, 6, and 11 has been commented out in the respective Python scripts due to unclear copyright regarding the underlying data. However, omission of these shapefiles does not change the interpretation of the model results. 
 
 
 [1] N. Reese, U. Graewe, K. Klingbeil, X. Li, M. Lorenz, H. Burchard, 2023:
@@ -40,7 +47,7 @@
     Wasserstraßen- und Schifffahrtsverwaltung des Bundes, accessed 10 March 2021,
     http://www.portal-tideelbe.de.
     
-[3] Landesamt f ̈ur Landwirtschaft, Umwelt und ländliche Räume Schleswig-Holstein, 2022:
+[3] Landesamt für Landwirtschaft, Umwelt und ländliche Räume Schleswig-Holstein, 2022:
     Daily averaged freshwater runoff at Kellinghusen-Parkplatz and Kölln-Reisiek A23,
     2012–2014. Hochwasser- und Sturmflutinformation Schleswig-Holstein, accessed
     2 February 2022,
