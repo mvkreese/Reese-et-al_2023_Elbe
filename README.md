@@ -1,18 +1,12 @@
 # Reese-et-al_2023_Elbe
 
-Supplementary dataset and Python scripts used for the creation of figures presented in [1]. Contains:
+**Supplementary dataset and Python scripts used for the creation of figures presented in [1]. Contains:**
 
 *riverinfo.dat -- river and tributary freshwater input grid locations as grid cell indices
 
-*rivers.nc -- freshwater forcing used in setup, contains sources from all included tributaries and Geesthacht.
-
-              Data retrieved from [2,3,4] in combination with personal communication via the
+*rivers.nc -- freshwater forcing used in setup, contains sources from all included tributaries and Geesthacht. Data retrieved from [2,3,4] in combination with personal communication via the Bundesanstalt für Wasserbau (BAW). 
               
-              Bundesanstalt für Wasserbau (BAW). 
-              
-*topo_smoothed_v20_z0.nc -- setup topography and curvilinear grid. Topography created from
-
-              datasets [5,6], for the latter see also [7].
+*topo_smoothed_v20_z0.nc -- setup topography and curvilinear grid. Topography created from datasets [5,6], for the latter see also [7].
 
 ./py_scripts -- Python scripts used for the creation of the figures, namely:
 
