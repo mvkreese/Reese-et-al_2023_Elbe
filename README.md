@@ -37,6 +37,7 @@ Note that *paper_plot_forcing_validation.py, *paper_plot_tidal_analysis.py, and 
 *paper_plot_forcing_validation.py additionally requires meteorological forcing data for the first figure panel, which cannot be made public due to its proprietary nature.
 The use of shapefiles to colour landmasses and plot the coastline in Figures 2, 6, and 11 has been commented out in the respective Python scripts due to unclear copyright regarding the underlying data. However, omission of these shapefiles does not change the interpretation of the model results. 
 
+----
 
 [1] N. Reese, U. Graewe, K. Klingbeil, X. Li, M. Lorenz, H. Burchard, 2023:
     Local mixing determines spatial structure of diahaline exchange flow in a
