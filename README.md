@@ -31,7 +31,7 @@ Python scripts used for the creation of the figures, namely:
      *paper_plot_salt_tidally-resolved: Tidally resolved stratification, not shown in paper
      
      
-The model data used for the figures and loaded within the Python scripts is available through <link> or, alternatively, from the corresponding author of the study [1].
+The model data used for the figures and loaded within the Python scripts is available from the corresponding author of the study [1].
 
 Note that *paper_plot_forcing_validation.py, *paper_plot_tidal_analysis.py, and *paper_plot_salinity_correlation.py require observational data that is freely available via portal-tideelbe.de; for in-depth documentation see [1].
 *paper_plot_forcing_validation.py additionally requires meteorological forcing data for the first figure panel, which cannot be made public due to its proprietary nature.
