@@ -8,7 +8,7 @@
               
 *topo_smoothed_v20_z0.nc -- setup topography and curvilinear grid. Topography created from datasets [5,6], for the latter see also [7].
 
-./py_scripts -- Python scripts used for the creation of the figures, namely:
+Python scripts used for the creation of the figures, namely:
 
      *paper_plot_grid: Figure 2
      
